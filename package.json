@@ -1,0 +1,17 @@
+{
+  "name": "lite-pattern",
+  "version": "1.0.0",
+  "description": "Данный проект является шаблонизатором для систем.\nЗа аналог был взят шаблонизатор twig, но с поправкой на использование кириллической раскладке клавиатуры.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pattern"
+  ],
+  "author": "",
+  "license": "ISC"
+}
